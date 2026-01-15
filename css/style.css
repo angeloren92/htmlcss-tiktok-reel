@@ -127,6 +127,21 @@ footer {
 	text-shadow: 0 3px 1px rgb(32, 221, 255), 0px -3px 1px fuchsia;
 }
 
+footer .ft-element:nth-of-type(4)::after {
+	content: "19";
+	background-color: rgb(255, 25, 83);
+	display: block;
+	width: 18px;
+	height: 14px;
+	font-size: 10px;
+	color: white;
+	text-shadow: none;
+	border-radius: 30%;
+	position: absolute;
+	bottom: 55px;
+	right: 150px;
+}
+
 /* Sidebar */
 .sidebar {
 	padding: 0 16px;
