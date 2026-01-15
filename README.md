@@ -24,3 +24,15 @@ Inserire il cerchietto con il “+”, sotto all’icona del profilo, nella side
 Ottenere l’effetto che si vede nello screenshot sul bottone centrale nel footer,
 
 Buon divertimento e confermate lettura come al solito  
+
+btn.play <i class="bi bi-play-btn"></i>
+btn.search <i class="bi bi-search"></i>
+btn.heart <i class="bi bi-heart-fill"></i>
+btn.chat <i class="bi bi-chat-dots-fill"></i>
+btn.bookmark <i class="bi bi-bookmark-fill"></i>
+btn.turn <i class="bi bi-sign-turn-slight-right-fill"></i>
+btn.home <i class="bi bi-house-fill"></i>
+btn.people <i class="bi bi-people"></i>
+btn.plus <i class="bi bi-file-plus-fill"></i>
+btn.chatsquare <i class="bi bi-chat-square"></i>
+btn.person <i class="bi bi-person"></i>
