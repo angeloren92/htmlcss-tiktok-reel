@@ -67,15 +67,32 @@ video {
 /* Footer */
 
 footer {
+	background-color: black;
 	position: absolute;
 	left: 0;
 	right: 0;
 	bottom: 0;
 	color: #fff;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
 
-	/* Inserisci qui sotto 
-	le tue regole, se necessario. */
+	text-shadow: 1px 1px rgba(169, 169, 169, 0.596);
+
+	.ft-element {
+		font-size: 25px;
+		display: flex;
+		flex-direction: column;
+		text-align: center;
+
+		span {
+			font-size: 10px;
+		}
+	}
 }
+
+
+
 
 /* Sidebar */
 .sidebar {
