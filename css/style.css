@@ -158,3 +158,19 @@ footer {
 	}
 }
 
+.sidebar::before {
+	content: "+";
+	width: 22px;
+	height: 22px;
+	font-size: 20px;
+	color: white;
+	background-color: rgba(250, 53, 53, 0.808);
+	border: 0 none transparent;
+	border-radius: 50%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: absolute;
+	top: 35px;
+	right: 27px;
+}
